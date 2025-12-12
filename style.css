@@ -133,6 +133,7 @@ img{
     backdrop-filter: blur(15px);
     border-radius: 10px;
     overflow: hidden;
+    z-index: 1;
 }
 
 .dropdown.open{
